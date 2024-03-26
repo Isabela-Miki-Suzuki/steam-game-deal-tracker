@@ -1,0 +1,43 @@
+(react) https://www.youtube.com/watch?v=SqcY0GlETPk
+(react native) https://www.youtube.com/watch?v=ur6I5m2nTvk
+(restAPI) https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api
+(restAPI) https://www.youtube.com/watch?v=lsMQRaeKNDk
+(request) https://reactnative.dev/docs/network
+(try) https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/try...catch
+(endpoint) https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+(string to float) https://stackoverflow.com/questions/642650/how-to-convert-string-into-float-in-javascript
+(FlatList) https://www.youtube.com/watch?v=iMCM1NceGJY
+(styled-components) https://www.freecodecamp.org/news/styled-components-in-react/
+(styled-components) https://styled-components.com/docs/basics
+(styled-components) https://www.devmedia.com.br/utilizando-styled-components-no-react/43554
+(styled-components) https://blog.logrocket.com/using-styled-components-react/
+(styled-components native) https://blog.logrocket.com/using-styled-components-with-react-native/
+https://blog.logrocket.com/using-styled-components-with-react-native/
+(img) https://codingstatus.com/how-to-display-images-in-react-js/
+(img) https://bobbyhadz.com/blog/react-display-image-from-url
+https://stackoverflow.com/questions/67764067/styled-components-for-input-type-password
+https://reactnative.dev/docs/textinput
+https://react.dev/reference/react-dom/components/input
+(filter) https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/
+(button) https://reactnative.dev/docs/button
+(import) https://stackoverflow.com/questions/64654790/what-is-import-as
+(css) https://www.w3schools.com/Css/css_positioning.asp
+(let const) https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+(styled-component Passed props) https://styled-components.com/docs/basics
+(styled-component Passed props) https://blog.logrocket.com/using-styled-components-with-react-native/
+(style button) https://stackoverflow.com/questions/47106781/dynamically-styled-button-in-react-native-using-styled-components
+(touchablehighlight) https://reactnative.dev/docs/touchablehighlight
+(error) https://stackoverflow.com/questions/39862145/react-children-only-expected-to-receive-a-single-react-element-child-error-whe
+(styled text) https://reactnative.dev/docs/text-style-props?language=javascript
+(styled) https://blog.logrocket.com/using-styled-components-with-react-native/
+(text input) https://reactnative.dev/docs/textinput
+(image) https://reactnative.dev/docs/image
+(center) https://davidl.fr/blog/react-native-center
+(center) https://blog.logrocket.com/using-styled-components-with-react-native/
+(flex - side by side) https://stackoverflow.com/questions/49859415/react-native-place-two-items-side-by-side
+(view style) https://reactnative.dev/docs/view-style-props
+(colors) https://reactnative.dev/docs/colors
+(justify content) https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
+(text) https://reactnative.dev/docs/handling-text-input
+(textInput) https://stackoverflow.com/questions/44416541/react-native-difference-between-onchange-vs-onchangetext-of-textinput
+(pureComponent) https://medium.com/@pechbusorg/pure-components-in-react-native-7c109ecefff5
